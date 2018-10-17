@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="45px" viewBox="0 0 55 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPhone-8-Plus" transform="translate(-11.000000, -16.000000)" fill="#FFFFFF">
+            <g id="Nav" transform="translate(-2.000000, -6.000000)">
+                <g id="logo" transform="translate(13.000000, 22.000000)">
+                    <path d="M40.0265319,45 C28.7764953,33.3785664 23.151477,25.257691 23.151477,20.637374 C23.151477,16.0314674 27.8690033,11.4102465 37.3040557,6.77371121 L55,19 L50,19 L50,45 L40.0265319,45 Z M20.3656322,45 L6,45 L6,19 L0,19 L27.5,0 L34.1031906,4.56220443 C21.3677261,10.0916358 15,16.6509451 15,24.2401377 C15,31.6970467 16.7885441,38.6170008 20.3656322,45 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
